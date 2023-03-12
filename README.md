@@ -1,12 +1,12 @@
 # gunner
 A modding API for Prison Life guns.
 ```lua
-local API: {} = loadstring(game:HttpGet("https://raw.githubusercontent.com/raycast6000/gunner/main.lua"))()
+local API: {} = loadstring(game:HttpGet("https://raw.githubusercontent.com/raycast6000/gunner/main/main.lua"))()
 ```
 # Usage
 To apply a modification for any gun just call the `trickGun` function. For example:
 ```lua
-local API = loadstring(game:HttpGet("https://raw.githubusercontent.com/raycast6000/gunner/main.lua"))()
+local API = loadstring(game:HttpGet("https://raw.githubusercontent.com/raycast6000/gunner/main/main.lua"))()
 
 API:trickGun("Gun name, M4A1, M9, etc", {
     FireRate = 0.01,
