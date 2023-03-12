@@ -1,5 +1,5 @@
 # gunner
-A modding API for Prison Life guns.
+A gun modding API for Prison Life.
 ```lua
 local API: {} = loadstring(game:HttpGet("https://raw.githubusercontent.com/raycast6000/gunner/main/main.lua"))()
 ```
