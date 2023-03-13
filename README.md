@@ -15,7 +15,7 @@ API:trickGun("Gun name, M4A1, M9, etc", {
 ```
 As we can see, the `trickGun` function takes two arguments, `GUNNAME` and `PROPERTYTABLE`. The `GUNNAME` argument contains, obviously, the gun name, and the `PROPERTYTABLE` is a table containing your modded properties, such as `FireRate` or `MaxAmmo`. Unchanged properties will remain the same.
 # Property list
-To make your life more easier, here is a list of properties that almost any gun use.
+To make your life much easier, here is a list of properties that almost any gun use.
 - FireRate
 - MaxAmmo (might not replicate, idk)
 - Spread
