@@ -22,7 +22,7 @@ To make your life much easier, here is a list of properties that almost any gun 
 - ReloadTime
 - Bullets (amount of bullets per shot)
 - Range
-- CurrentAmmo (amount of ammo by default)
+- CurrentAmmo (amount of ammo by default, cannot be greater than the MaxAmmo value)
 - Damage (this does not get replicated btw)
 - AutoFire (hold or not hold left click to shoot)
 # Please give credits ❤
