@@ -17,7 +17,8 @@ As we can see, the `trickGun` function takes two arguments, `GUNNAME` and `PROPE
 # Property list
 To make your life more easier, here is a list of properties that almost any gun use.
 - FireRate
-- MaxAmmo
+- MaxAmmo (might not replicate, idk)
+- Spread
 - ReloadTime
 - Bullets (amount of bullets per shot)
 - Range
